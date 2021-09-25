@@ -5,7 +5,7 @@ Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns ap
 
 ## Projetando o Investimento 
 
-    Quando falamos em projetar o investimento, estamos referindo ao projeto em si, a quantidade e o tempo que você levará para alcançar o objetivo de renda passiva. Para isso precisamos entender a diferença entre RENDA PASSIVA e RENDA ATIVA.
+>Quando falamos em projetar o investimento, estamos referindo ao projeto em si, a quantidade e o tempo que você levará para alcançar o objetivo de renda passiva. Para isso precisamos entender a diferença entre RENDA PASSIVA e RENDA ATIVA.
 
 * RENDA ATIVA
     * A renda ativa acontece quando há um esforço trabalhista, quando você tem um emprego e através dele tem uma renda mensal, quando você sai desse emprego sua fonte de renda acaba.
