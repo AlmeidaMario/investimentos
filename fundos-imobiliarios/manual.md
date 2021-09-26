@@ -1,6 +1,8 @@
 
 # Fundos Imobiliários
 
+Os fundos de investimento imobiliário (FII) são investimentos de longo prazo, que consistem em um conjunto de recursos que serão aplicados em empreendimentos imobiliários. As parcelas do valor do patrimônio são distribuídas entre os investidores, na forma de cotas.
+
 Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns aprendizados com quem já está inserido no mercado e tendo resultados com o modelo de investimento. Levando isso em consideração, vamos aproveitar alguns excelentes conteúdos do canal [Primo Rico](https://www.youtube.com/c/ThiagoNigro/about).
 
 ## Projetando o Investimento 
@@ -40,6 +42,9 @@ Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns ap
         * Esse é valor de que você precisa tem em fundos para obter uma renda mensal de R$ 5.000,00 -> R$ 1.250.000,00 em Fundos Imobiliários.
 
 
-Para de auxiliar nesse estudo, veja o video abaixo que explica na pratica como isso acontece:
+Para de auxiliar nesse estudo, veja os videos abaixo que explicam na pratica como isso acontece:
 
 * [COMO INVESTIR PRA VIVER DE RENDA COM FUNDOS IMOBILIARIOS](https://www.youtube.com/watch?v=rhXn31-CKrg&list=PLHvsswG2Q9jJOMA-p33aYCxAiYN1-JFC4&index=2)
+
+* [COMO INVESTIR PRA VIVER DE RENDA COM FUNDOS IMOBILIARIOS EM 2021?](https://www.youtube.com/watch?v=3JqeEYMgu8Q&list=PLHvsswG2Q9jJOMA-p33aYCxAiYN1-JFC4&index=50)
+
