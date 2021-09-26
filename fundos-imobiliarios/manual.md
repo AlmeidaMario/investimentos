@@ -28,11 +28,15 @@ Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns ap
             * MG = ( VC / DV )
         * Levando em coonsideração um exemplo de fundo imobiliário
             * VC: R$ 194,76
-            * DV: R$ 0,78 / mês
+            * DV: R$ ( 0,78 / mês )
             * MG: ( 194,76 / 0,78 ) = 249,69 -> 250 cotas.
 2. Dado que agora conheçemos o valores variaveis referente ao nosso fundo imobiliário e conseguimos chegar ao nosso MAGIC NUMBER, podemos ter uma noçao de valores que precisamos para calcular o RMD(renda mensal desejada).
 
     * Como calcular o RMD? temos duas formas:
+        * Levando em coonsideração os valores abaixo
+            * VC: R$ 194,76
+            * DV: R$ ( 0,78 / mês )
+            * RDM: R$ 5.000,00
         * Fórmula Complexa: ( ( RDM / DV ) * VC)
             * Supondo que você tem um desejo de renda mensal de R$ 5.000,00
             * ( ( 5.000 / 0,78 ) * 194,76 ) = R$ 1.250.000,00
