@@ -5,7 +5,7 @@ Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns ap
 
 ## Projetando o Investimento 
 
->Quando falamos em projetar o investimento, estamos referindo ao projeto em si, a quantidade e o tempo que você levará para alcançar o objetivo de renda passiva. Para isso precisamos entender a diferença entre RENDA PASSIVA e RENDA ATIVA.
+>Quando falamos em projetar o investimento, estamos referindo ao projeto em si, a quantidade de investimento que você levará para alcançar o objetivo de renda passiva. Para isso precisamos entender a diferença entre RENDA PASSIVA e RENDA ATIVA.
 
 * RENDA ATIVA
     * A renda ativa acontece quando há um esforço trabalhista, quando você tem um emprego e através dele tem uma renda mensal, quando você sai desse emprego sua fonte de renda acaba.
@@ -16,7 +16,7 @@ Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns ap
 
 ### E é nesse sentido de objetivar uma renda passiva que lhe leve a conseguir um valor mensal desejado, que vamos abordar alguns pontos a partir de agora.
 
-1. É preciso encontrar o MG(magic number). O MG nada mais é do que o momento em acontece a bola de neve, a quantidade de cotas necessárias para o seu investimento se manter sem que você precise de inserir um aporte oriundo da renda ativa. Ou seja, você passa a ter o poder de adiquirir mais cotas somente com a renda do fundo em que vc está investindo.
+1. É preciso encontrar o MG(magic number). O MG nada mais é do que o momento em acontece a bola de neve, a quantidade de cotas necessárias para o seu investimento se manter sem que você precise de inserir um aporte oriundo da renda ativa. Ou seja, você passa a ter o poder de adiquirir mais cotas somente com a renda do/s fundo/s em que você está investindo.
 
     * Como calcular esse Magic Number?
         * O fundo imobiliário é composto de algumas variáveis tais como:
