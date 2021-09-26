@@ -5,6 +5,22 @@ Os fundos de investimento imobiliário (FII) são investimentos de longo prazo, 
 
 Para entender melhor sobre o assunto FUNDO IMOBILIÁRIO precisamos ter alguns aprendizados com quem já está inserido no mercado e tendo resultados com o modelo de investimento. Levando isso em consideração, vamos aproveitar alguns excelentes conteúdos do canal [Primo Rico](https://www.youtube.com/c/ThiagoNigro/about).
 
+<br>
+
+## Introdução - Um pouco sobre o tal fundo imobiliário
+
+* [R$16.700 e R$380.000: Quanto rende por mês em FUNDOS IMOBILIARIOS (FIIs)? Dá pra viver de renda?](https://www.youtube.com/watch?v=CoKzco92uOI&list=PLHvsswG2Q9jJOMA-p33aYCxAiYN1-JFC4&index=1)
+
+## Aprenda na prática como comprar fundo imobiliário
+
+* [INVESTI R$ 150,84 EM FUNDO IMOBILIARIO (FII) NA BOLSA DE VALORES | Aprenda na PRÁTICA como COMPRAR](https://www.youtube.com/watch?v=EejdzG_gIww)
+
+## Um ótimo portifólio de sucesso para te encorajar a vencer
+
+* [QUANTO EU GANHO DE FUNDOS IMOBILIARIOS POR MÊS? Dá pra VIVER DE RENDA?](https://www.youtube.com/watch?v=_zknW0Uooho&list=PLHvsswG2Q9jJOMA-p33aYCxAiYN1-JFC4&index=3)
+
+<br>
+
 ## Projetando o Investimento 
 
 >Quando falamos em projetar o investimento, estamos referindo ao projeto em si, a quantidade de investimento que você levará para alcançar o objetivo de renda passiva. Para isso precisamos entender a diferença entre RENDA PASSIVA e RENDA ATIVA.
